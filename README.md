@@ -1,8 +1,3 @@
-# SchoolPal Website
+# No Longer Active
 
-Made by Maxwell & Varun
-
-## Mission
-
-Empowering learners of all ages with technology never before
-seen in educuation.
+This repository is archived. Please go to [Varun-Ashok/schoolpal-website](https://github.com/Varun-Ashok/schoolpal-website) instead.
